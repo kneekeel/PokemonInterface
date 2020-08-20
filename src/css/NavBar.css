@@ -1,0 +1,13 @@
+.NavBar-header {
+    display: inline-flex;
+    padding-left: 12em;
+    border-bottom: 1px solid black;
+  }
+  
+  .NavBar-select {
+    display: fixed;
+    padding-left: 1em;
+    padding-top: 1.5em;
+  }
+  
+  

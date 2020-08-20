@@ -1,0 +1,14 @@
+.App {
+  background-color: #e1d9c7;
+  min-height: 100vh;
+  padding: 2em;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-header {
+  position: relative;
+  padding-left: 8em;
+  font-size: 150%;
+  font-weight: 900;
+}
