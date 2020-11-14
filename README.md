@@ -2,7 +2,7 @@
 
 ## Description
 
--   For my technical exam, for Pine Park Health's SWE Internship, I was assigned to recreate a simple UI mimicing the set of images I was given. The UI is a simple Pokemon interface, where a user can view/create Pokemons in gallery/table/board view. The gallery view is has draggable tags for each individual Pokemon created.
+-   For my technical exam, for Pine Park Health's SWE Internship, I was assigned to recreate a simple UI mimicing the set of images I was given. The UI is a simple Pokemon interface, where a user can view/create Pokemons in gallery/table/board view. The gallery view has draggable tags for each individual Pokemon created.
 
 -   I got the position, under the circumstance that I would have to take a gap year in the Fall of 2020, and that ain't happening on my senior yr chief.
 
