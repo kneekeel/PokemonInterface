@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pokemon Interface: Pine Park Health Technical Exam
+
+## Description
+
+-   For my technical exam, for Pine Park Health's SWE Internship, I was assigned to recreate a simple UI mimiicing the set of images I was given. The UI is a simple Pokemon interface, where a user can view/create Pokemons in gallery/table/board view. The gallery view is has draggable tags for each individual Pokemon created.
 
 ## Available Scripts
 
